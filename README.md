@@ -20,9 +20,7 @@ Three datasets are provided for this case study:
 3. **Members**: Includes customer information for those who joined the loyalty program.
 
 ### Entity Relationship Diagram (ERD)
-![ERD Image]((https://github.com/Mayankgupta1803/dannys-diner-case-study/blob/6e390163469d4186e598d90b6d2190bda69bb4cc/Challenge%201%20schema.png
-)
-*(Make sure to include an image of the ERD if you have one.)*
+![(images/schema.png)](https://github.com/Mayankgupta1803/dannys-diner-case-study/blob/6e390163469d4186e598d90b6d2190bda69bb4cc/Challenge%201%20schema.png)
 
 ## Case Study Questions
 The case study focuses on answering key business questions for Danny, such as:
